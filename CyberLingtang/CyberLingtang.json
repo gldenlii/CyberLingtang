@@ -1,0 +1,12 @@
+{
+  "Author": "goldenlii",
+  "Name": "CyberLingtang",
+  "Punchline": "Track players you met with friends.",
+  "Description": "/cl to open config",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
